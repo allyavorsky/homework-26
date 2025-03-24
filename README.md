@@ -1,1 +1,1 @@
-# homework-26
+# Homework 26 | JavaScript на практиці: відстеження дій користувача
